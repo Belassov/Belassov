@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠️ Технологии и инструменты
+### Технологии и инструменты
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
@@ -17,7 +17,7 @@
 
 ---
 
-### 📊 Статистика
+### Статистика
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meirzhan&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meirzhan&layout=compact&theme=radical)
 
