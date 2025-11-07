@@ -23,4 +23,7 @@
 
 ---
 
-⭐️ *Если тебе интересны мои проекты — загляни в pinned repositories!*
+### 🐍 Моя активность на GitHub
+
+![snake animation](https://github.com/Belassov/Belassov/blob/output/snake.svg)
+
