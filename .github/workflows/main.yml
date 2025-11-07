@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo content
+      - name: Checkout repository content
         uses: actions/checkout@v3
 
       - name: Generate the snake animation
@@ -22,8 +22,13 @@ jobs:
         with:
           github_user_name: Belassov
           outputs: dist/snake.svg
+          # 🎨 Настройка цветов
+          # можно поиграть с фоном и цветами для нужного стиля
+          color_snake: "#00FFB3"
+          color_dots: "#3B3B3B,#2E2E2E,#242424,#1A1A1A,#141414"
+          color_bg: "#1E1E2E" # тёмно-серый с фиолетовым подтоном, не сливается с GitHub dark theme
 
-      - name: Push generated snake.svg to output branch
+      - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
