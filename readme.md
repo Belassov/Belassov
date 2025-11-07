@@ -23,7 +23,3 @@
 
 ---
 
-### 🐍 Моя активность на GitHub
-
-![snake animation](https://github.com/Belassov/Belassov/raw/output/snake.svg)
-
