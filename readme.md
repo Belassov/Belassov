@@ -1,10 +1,10 @@
 # Привет, я Мейржан 
 
-💻 **Golang-разработчик** | 
-🔭 Сейчас работаю над: **CRUD API на Go**  
-🌱 Изучаю: **Clean Architecture, gRPC, Docker, PostgreSQL**  
-⚙️ Стек: Go, Fiber, Gin, Gorm, Docker, PostgreSQL  
-📫 Как связаться: [Telegram](https://t.me/Belassov)  
+ **Golang-разработчик** | 
+Сейчас работаю над: **CRUD API на Go**  
+Изучаю: **Clean Architecture, gRPC, Docker, PostgreSQL**  
+Стек: Go, Fiber, Gin, Gorm, Docker, PostgreSQL  
+Как связаться: [Telegram](https://t.me/Belassov)  
 
 ---
 
@@ -25,5 +25,5 @@
 
 ### 🐍 Моя активность на GitHub
 
-![snake animation](https://github.com/Belassov/Belassov/blob/output/snake.svg)
+![snake animation](https://github.com/Belassov/Belassov/raw/output/snake.svg)
 
