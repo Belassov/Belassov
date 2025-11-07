@@ -1,7 +1,7 @@
 # Привет, я Мейржан 
 
  **Golang-разработчик** | 
-Сейчас работаю над: **RESST API на Go**  
+Сейчас работаю над: **REST API на Go**  
 Изучаю: **Clean Architecture, gRPC, Docker, PostgreSQL**  
 Стек: Go, Fiber, Gin, Gorm, Docker, PostgreSQL  
 Как связаться: [Telegram](https://t.me/Belassov)  
