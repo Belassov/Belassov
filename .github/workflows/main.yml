@@ -2,7 +2,7 @@ name: Generate Snake Animation 🐍
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # обновляется каждые 12 часов
+    - cron: "0 */12 * * *" 
   workflow_dispatch:
   push:
     branches:
@@ -22,12 +22,10 @@ jobs:
         with:
           github_user_name: Belassov
           outputs: dist/snake.svg
-          # 🎨 Настройка цветов
-          # можно поиграть с фоном и цветами для нужного стиля
           color_snake: "#00FFB3"
           color_dots: "#3B3B3B,#2E2E2E,#242424,#1A1A1A,#141414"
-          color_bg: "#1E1E2E" # тёмно-серый с фиолетовым подтоном, не сливается с GitHub dark theme
-
+          color_bg: "#1E1E2E" 
+          
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
