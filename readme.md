@@ -1,7 +1,7 @@
 # Привет, я Мейржан 
 
  **Golang-разработчик** | 
-Стек: Go, Docker, PostgreSQL, Fiber, Gin, Gorm, ,   
+Стек: Go, Docker, PostgreSQL, Fiber, Gin, Gorm
 Как связаться: [Telegram](https://t.me/Belassov)  
 
 ---
